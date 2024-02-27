@@ -1,0 +1,39 @@
+name: giao_dien_ho_so
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  sqflite: ^2.0.0
+  path: ^1.8.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hover: ^0.4.0
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets: 
+    - images/anh-dai-dien-fb-dep.jpg
+    - C:/AR/giao_dien_ho_so/images/anh-dai-dien-fb-dep.jpg
+    - C:/AR/giao_dien_ho_so/images/fixgear.jpg
+    - C:/AR/giao_dien_ho_so/images/kawasaki.jpg
+    - C:/AR/giao_dien_ho_so/images/lambor.jpg
+    - C:/AR/giao_dien_ho_so/images/lexus.jpg
+    - C:/AR/giao_dien_ho_so/images/logobrand.jpg
+    - C:/AR/giao_dien_ho_so/images/rollroyce.jpg
+    - C:/AR/giao_dien_ho_so/images/thue-xe-tu-lai.jpg
+    - C:/AR/giao_dien_ho_so/images/toyota.jpg
